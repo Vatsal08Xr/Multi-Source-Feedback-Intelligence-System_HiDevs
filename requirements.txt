@@ -1,1 +1,11 @@
-# Add your project dependencies here
+streamlit
+pandas
+numpy
+scikit-learn
+transformers
+torch
+google-play-scraper
+feedparser
+plotly
+fpdf
+requests
